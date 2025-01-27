@@ -1,0 +1,54 @@
+body.dark-mode {
+  background-color: #2e2e2e;
+  color: #e0e0e0;
+}
+
+body.dark-mode header {
+  background-color: #1e1e1e;
+  color: #e0e0e0;
+}
+
+body.dark-mode header .user-id {
+  background-color: #3a3a3a;
+  color: #e0e0e0;
+}
+
+body.dark-mode header .dark-mode-toggle {
+  background-color: #3a3a3a;
+  color: #e0e0e0;
+}
+
+body.dark-mode ul {
+  background-color: #2e2e2e;
+}
+
+body.dark-mode li {
+  background-color: #2e2e2e;
+  color: #e0e0e0;
+}
+
+body.dark-mode li.user-message {
+  background-color: #3a3a3a;
+}
+
+body.dark-mode li.other-message {
+  background-color: #575353;
+}
+
+body.dark-mode li.system-message {
+  background-color: #3a3a3a;
+}
+
+body.dark-mode input {
+  background-color: #2e2e2e;
+  color: #e0e0e0;
+  border: 1px solid #555;
+}
+
+body.dark-mode button {
+  background-color: #bb86fc;
+}
+
+body.dark-mode button:hover {
+  background-color: #3700b3;
+}
