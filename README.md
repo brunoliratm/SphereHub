@@ -2,22 +2,19 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=SphereHub&reversal=false">
 </div>
 
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![GitHub pull requests](https://img.shields.io/github/issues/brunoliratm/SphereHub)
 ![GitHub contributors](https://img.shields.io/github/contributors/brunoliratm/SphereHub)
-![Node.js](https://img.shields.io/badge/Node.js-v18.x-blue)
-![Socket.io](https://img.shields.io/badge/Socket.io-v4.x-brightgreen)
 
-SphereHub is a real-time chat application built with **Node.js**, **Express**, and **Socket.io**. The application provides an interactive instant messaging experience with modern features like light and dark modes and system notifications for user connections and disconnections.
+SphereHub is a dynamic real-time chat application designed to facilitate instant communication between users. Built with **Node.js**, **Express**, and **Socket.io**, SphereHub offers a seamless messaging experience with modern features such as light and dark modes, and system notifications for user connections and disconnections.
 
 ---
 
 ## 🚀 Features
 
-- **Real-time messaging**: Instant communication between users.
-- **Light and dark mode**: Switch between two color schemes.
-- **System notifications**: Notify when a user connects or disconnects.
+- **Real-time messaging**: Experience instant communication with other users.
+- **Light and dark mode**: Easily switch between light and dark themes to suit your preference.
+- **System notifications**: Receive notifications when users connect or disconnect from the chat.
 
 <br>
 
@@ -72,7 +69,7 @@ Follow the steps below to run the project locally:
 
 ## 📃 Usage Example
 
-When the server is running, open index.html file. To send a message, simply type in the text field and press "Enter". You will see messages from other users in real-time!
+When the server is running, open the `index.html` file in your browser. To send a message, simply type in the text field and press "Enter". You will see messages from other users in real-time!
 
 <br>
 
@@ -125,11 +122,13 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 - Implement **user authentication**.
 - **Private messaging** between users.
+- **Message history** to view previous messages.
 
 <br>
 
-## Acknowledgements
+## 📚 Resources
 
+- [Node.js](https://nodejs.org/)
 - [Socket.io](https://socket.io/)
 - [Express](https://expressjs.com/)
 - [Font Awesome](https://fontawesome.com/)
