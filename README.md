@@ -72,7 +72,7 @@ Follow the steps below to run the project locally:
 
 ## 📃 Usage Example
 
-When the server is running, the application will be available at `http://localhost:4200` in your browser. To send a message, simply type in the text field and press "Enter". You will see messages from other users in real-time!
+When the server is running, open index.html file. To send a message, simply type in the text field and press "Enter". You will see messages from other users in real-time!
 
 <br>
 
@@ -105,8 +105,19 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## 📸 Screenshots
 
-![Light Mode](screenshots/light-mode.png)
-![Dark Mode](screenshots/dark-mode.png)
+<details>
+<summary>Light Mode</summary>
+
+![Light Mode](https://github.com/brunoliratm/SphereHub/blob/main/app/image/light.png)
+
+</details>
+
+<details>
+<summary>Dark Mode</summary>
+
+![Dark Mode](https://github.com/brunoliratm/SphereHub/blob/main/app/image/dark.png?raw=true)
+
+</details>
 
 <br>
 
