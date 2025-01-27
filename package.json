@@ -5,8 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js",
-    "serve": "serve -s app"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Bruno Magno",
@@ -14,6 +13,7 @@
   "dependencies": {
     "socket.io": "^4.8.1",
     "express": "^4.18.2",
-    "cors": "^2.8.5"
+    "cors": "^2.8.5",
+    "open": "^8.4.0"
   }
 }
